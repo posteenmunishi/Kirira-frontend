@@ -1,0 +1,12 @@
+.navbar{
+    background-color: yellow;
+ justify-content: baseline;
+}
+.navbar-nav{
+ display: flex;
+ flex-direction: row;
+}
+.nav-item{
+  padding-right: 50px;
+ 
+}
